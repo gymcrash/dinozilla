@@ -1,6 +1,6 @@
 function jump() {
 	y = lerp(y, start_y-jump_height, 0.2);
-	if(y < (start_y-jump_height+0.1)) {
+	if(y < (start_y-jump_height+0.2)) {
 		action_state = "LANDING";
 	}
 }
