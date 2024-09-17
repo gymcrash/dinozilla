@@ -38,6 +38,7 @@
   "resources":[
     {"id":{"name":"obj_base_road","path":"objects/obj_base_road/obj_base_road.yy",},},
     {"id":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},},
+    {"id":{"name":"obj_buildingSpawner","path":"objects/obj_buildingSpawner/obj_buildingSpawner.yy",},},
     {"id":{"name":"obj_dino","path":"objects/obj_dino/obj_dino.yy",},},
     {"id":{"name":"obj_road_scroller","path":"objects/obj_road_scroller/obj_road_scroller.yy",},},
     {"id":{"name":"obj_road1","path":"objects/obj_road1/obj_road1.yy",},},

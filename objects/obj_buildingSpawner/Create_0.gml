@@ -1,0 +1,1 @@
+next_spawn_time = random_range(min_spawn_time, max_spawn_time);
