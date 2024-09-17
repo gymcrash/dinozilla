@@ -35,7 +35,7 @@
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"spr_dinoZilla_run",
     "path":"sprites/spr_dinoZilla_run/spr_dinoZilla_run.yy",
